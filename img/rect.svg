@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 634.3 753.04">
+  <linearGradient id="Rectangle_1_" x1="-641.02" x2="-641.77" y1="918.994" y2="918.166" gradientTransform="matrix(634.301 0 0 -753.0399 407143.25 692115.938)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#9364cc"/>
+    <stop offset=".502" stop-color="#727ac6"/>
+    <stop offset="1" stop-color="#00c4b3"/>
+  </linearGradient>
+  <path id="Rectangle" fill="url(#Rectangle_1_)" d="M119.34 108.08L409.23 9.19C521.73-28.33 634.3 53.56 634.3 172.9v300.05c0 71.66-44.36 136.41-112.57 160.32L231.91 742.38C119.34 783.29 0 701.47 0 582.13V271.78c3.39-75.04 47.75-139.79 119.34-163.7z"/>
+</svg>
